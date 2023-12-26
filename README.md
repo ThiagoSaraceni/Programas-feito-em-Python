@@ -1,0 +1,1 @@
+Esses são alguns programas que fiz e encontrei no meu pc da época quando estava começando a estudar python, tem poucos e são básicos mas importante é deixar e futuramente comparar códigos e lembrar de onde comecei :)
